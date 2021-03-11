@@ -7,7 +7,7 @@ from telethon.tl.types import InputMessagesFilterEmpty
 
 api_id = 952378
 api_hash='376ed6a57831aca11be812ff628eb53a'
-phone = '+53xxxxxxxx'
+phone = '+5355451278'
 client = TelegramClient(phone, api_id, api_hash)
 client.start()
 
